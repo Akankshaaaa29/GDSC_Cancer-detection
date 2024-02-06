@@ -8,7 +8,7 @@ Deployed Website: https://gdsccancer-detection-pqw49wfnka3sosnxhffx5k.streamlit.
 
 ## Video Pitch
 
-Check out our video pitch to get a quick overview: [GDSC_Cancer-detection Video Pitch](https://drive.google.com/file/d/1ZtAmCCxFcUiur0q-Sx1Yha52ohMPgUJ6/view?usp=share_link)
+Check out our video pitch to get a quick overview: [GDSC_Cancer-detection Video Pitch](https://drive.google.com/file/d/18TzN64tKCLC0ZGTR50AHu3uYd6ej3Jzs/view?usp=drive_link)
 ## Demo
 
 
