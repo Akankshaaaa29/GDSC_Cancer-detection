@@ -9,10 +9,13 @@ SIZE_X = 256  # Set your desired size
 SIZE_Y = 256  # Set your desired size
  
 import streamlit as st
+st.set_page_config(
+    page_title="Cancer Detection",
+    page_icon="🔬",
+    layout="centered",)
 
 
-
-st.title("Cancer detection with AI")
+st.title("Cancer Detection with AI")
 st.write("Upload an MRI image to detect brain tumors.")
 
 # File Upload Section
