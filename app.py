@@ -41,7 +41,7 @@ if uploaded_file is not None:
     # Build and Load Model
     input_layer = Input((SIZE_X, SIZE_Y, 3))
     model = build_unet(input_layer, 'he_normal', 0.2)
-    model.load_weights('checkpointDenseUnet15 (1).hdf5')
+    model.load_weights('checkpointDenseUnet15.hdf5')
 
     # Add an extra dimension to represent the batch size
     img_with_batch = np.expand_dims(img, axis=0)
