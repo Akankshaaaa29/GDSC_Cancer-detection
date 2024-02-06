@@ -10,7 +10,11 @@ Deployed Website: https://gdsccancer-detection-pqw49wfnka3sosnxhffx5k.streamlit.
 
 Check out our video pitch to get a quick overview: [GDSC_Cancer-detection Video Pitch](https://drive.google.com/file/d/1ZtAmCCxFcUiur0q-Sx1Yha52ohMPgUJ6/view?usp=share_link)
 ## Demo
-![alt text](https://github.com/Akankshaaaa29/GDSC_Cancer-detection/blob/main/gif/screen-capture_QpQzRpTi%20(1).mp4)
+
+
+https://github.com/Akankshaaaa29/GDSC_Cancer-detection/assets/99268258/ca39580e-f8d7-4e7b-bd37-da7a17cca01d
+
+
 
 ## Project Highlights
 
