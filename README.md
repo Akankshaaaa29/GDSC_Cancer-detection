@@ -12,7 +12,10 @@ Get a quick overview by watching our video pitch: [GDSC_Cancer-detection Video P
 
 ## Demo
 
-![Project Demo](https://github.com/Akankshaaaa29/GDSC_Cancer-detection/assets/99268258/ca39580e-f8d7-4e7b-bd37-da7a17cca01d)
+
+https://github.com/Akankshaaaa29/GDSC_Cancer-detection/assets/99268258/19d3afe5-62d9-471f-87bf-38b403edb539
+
+
 
 ## Project Highlights
 
