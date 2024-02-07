@@ -1,38 +1,50 @@
-# GDSC_Cancer-detection: Cancer Cure Using AI
+# GDSC_Cancer-detection: Revolutionizing Cancer Diagnosis with AI
 
 ## Project Overview
 
-Welcome to GDSC_Cancer-detection, a project aimed at advancing cancer research and treatment through innovative AI-driven solutions. Our primary focus is on detecting brain tumors using a novel deep-learning model called "denseunet." This project addresses the critical need for accurate and efficient cancer detection, particularly in the context of brain tumors.
+Welcome to GDSC_Cancer-detection, a groundbreaking project designed to revolutionize cancer research and treatment through state-of-the-art AI-driven solutions. Our primary focus is on the early detection of brain tumors using an innovative deep-learning model named "denseunet." This project addresses the crucial need for accurate and efficient cancer detection, especially in the context of brain tumors.
 
-Deployed Website: https://gdsccancer-detection-pqw49wfnka3sosnxhffx5k.streamlit.app/
+Visit our Deployed Website: [GDSC_Cancer-detection](https://gdsccancer-detection-pqw49wfnka3sosnxhffx5k.streamlit.app/)
 
 ## Video Pitch
 
-Check out our video pitch to get a quick overview: [GDSC_Cancer-detection Video Pitch](https://drive.google.com/file/d/18TzN64tKCLC0ZGTR50AHu3uYd6ej3Jzs/view?usp=drive_link)
+Get a quick overview by watching our video pitch: [GDSC_Cancer-detection Video Pitch](https://drive.google.com/file/d/18TzN64tKCLC0ZGTR50AHu3uYd6ej3Jzs/view?usp=drive_link)
+
 ## Demo
 
-
-https://github.com/Akankshaaaa29/GDSC_Cancer-detection/assets/99268258/ca39580e-f8d7-4e7b-bd37-da7a17cca01d
-
-
+![Project Demo](https://github.com/Akankshaaaa29/GDSC_Cancer-detection/assets/99268258/ca39580e-f8d7-4e7b-bd37-da7a17cca01d)
 
 ## Project Highlights
 
 ### Concept/Idea
 
-Our project revolves around the development and deployment of the "denseunet" model, a cutting-edge deep-learning architecture. This model excels in detecting brain tumors by precisely segmenting cancerous cells from brain images, achieving an impressive accuracy of X. The innovative aspect lies in its optimized runtime, surpassing existing solutions in terms of speed and efficiency.
+#### The Critical Issue:
+
+Late cancer detection is synonymous with limited treatment options and increased mortality rates. This challenge is especially pronounced in brain tumors, where every moment lost can mean the difference between a manageable situation and a life-altering prognosis.
+
+#### Our Response:
+
+Our project introduces a groundbreaking approach by incorporating the "DenseUnet" model. This advanced deep-learning design is carefully crafted to analyze brain images, accurately identifying cancerous cells with an unprecedented level of precision, revolutionizing early diagnosis. The model meticulously separates cancerous cells from brain images, achieving an exceptional accuracy rate of 99.98%. The innovation lies in its optimized runtime, outperforming existing solutions in terms of both speed and efficiency. To enhance user interaction, we deploy the model on the web using Streamlit, ensuring a smooth and user-friendly experience.
+##### Dataset Description
+The dataset used in this work is from fig share brain tumor segmentation. It consists 3064 T1-weighted contrast-enhanced images with three kinds of brain tumors. The images are collected from 233 subjects. The dataset contains coronal, sagittal, and axial views. The images are available as .mat files and the size of each image is 512x512. These images were split into training, test set and validation in the ratio of 65:15:20. Therefore, the model was trained on 2083 images and validated on 521 images
 
 ### Speciality/Uniqueness
 
-1. **Accuracy:** The "denseunet" model boasts an exceptional accuracy rate in identifying brain tumors, providing reliable results for medical professionals and researchers.
-2. **Optimized Time:** Our solution focuses on delivering results in an optimized timeframe, making it more efficient than current alternatives.
-3. **Streamlit Interface:** We have integrated our model into a user-friendly Streamlit interface, allowing users to input MRI images and receive predictions regarding the presence and location of brain tumors.
+1. **Accuracy:** The "DenseUnet" model exhibits an exceptional accuracy rate in identifying brain tumors, providing reliable results for medical professionals and researchers.
+2. **Optimized Time:** Our solution prioritizes delivering results within an optimized timeframe, surpassing current alternatives in efficiency.
+3. **Streamlit Interface:** We have seamlessly integrated our model into a user-friendly Streamlit interface, enabling users to input MRI images and receive predictions about the presence and location of brain tumors.
+
+### TechStack:
+- TensorFlow
+- Keras
+- Streamlit
+- Python
 
 ## Getting Started
 
 ### Prerequisites
 
-- Ensure you have Python installed on your system.
+- Ensure Python is installed on your system.
 - Download the project zip file.
 
 ### Installation
@@ -43,6 +55,7 @@ Our project revolves around the development and deployment of the "denseunet" mo
 
    ```bash
    pip install -r requirements.txt
+
    ```
 
 ### Running Locally
